@@ -1,2 +1,3 @@
 Arquivo para testes.
 Nova linha.
+Outra linha.
